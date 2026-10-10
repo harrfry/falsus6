@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "footprints") (type "KiCad") (uri "/home/harry/Downloads/void_switch_kicad/footprints") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "YAAJ_BlackPill") (type "KiCad") (uri "/home/harry/Downloads/Kicad-STM32/Footprints/YAAJ_BlackPill.pretty") (options "") (descr ""))
+	(lib (name "tako") (type "KiCad") (uri "/home/harry/Downloads/tako/rev1/pcb/tako.pretty") (options "") (descr ""))
+)
